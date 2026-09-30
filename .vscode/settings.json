@@ -3,5 +3,36 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "cSpell.words": [
+    "almacena",
+    "botones",
+    "calculadora",
+    "calcular",
+    "crear",
+    "diferente",
+    "digito",
+    "eliminar",
+    "estructura",
+    "Evaluar",
+    "Evitar",
+    "existe",
+    "filas",
+    "ingresa",
+    "ingresando",
+    "Mundo",
+    "negativo",
+    "operacion",
+    "operador",
+    "otro",
+    "poder",
+    "presionar",
+    "presiono",
+    "Pressable",
+    "punto",
+    "Resultado",
+    "rnfe",
+    "signo",
+    "verificar"
+  ]
 }
